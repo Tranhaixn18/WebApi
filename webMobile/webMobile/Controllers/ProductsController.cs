@@ -9,7 +9,6 @@ using webMobile.Repositories;
 
 namespace webMobile.Controllers
 {
-    // Third commit
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
